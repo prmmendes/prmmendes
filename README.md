@@ -1,6 +1,6 @@
 ### Olá, sou Paulo Roberto. Seja muito bem vindo! 👋
 
-- 🔭 Coordenador/ Professor Universitário e Diretor de Projetos de Sistemas e Gestão
+- 🔭 Coordenador/ Professor Universitário | Diretor de Sistemas e Projetos de Gestão
 - 🌱 Estudando Inteligência Artificial | Segurança da Informação
 - 📫 Contate-me no email: prmoreira.dev@gmail.com
 
