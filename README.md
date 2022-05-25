@@ -1,7 +1,7 @@
 ### Olá, sou Paulo Roberto. Seja muito bem vindo! 👋
 
-- 🔭 Atualmente estou trabalhando com Python
-- 🌱 Estudando Inteligência Artificial
+- 🔭 Coordenador/ Professor Universitário e Diretor de Projetos de Sistemas e Gestão
+- 🌱 Estudando Inteligência Artificial | Segurança da Informação
 - 📫 Contate-me no email: prmoreira.dev@gmail.com
 
 <div align="center">
