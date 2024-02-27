@@ -1,12 +1,11 @@
 ### Olá, sou Paulo Roberto. Seja muito bem vindo! 👋
 
-- 👨‍🏫📊🖥️ Paulo Roberto Moreira Mendes
+                                                           👨‍🏫📊🖥️
 
-Com uma sólida bagagem de 14 anos no ambiente universitário, lecionei disciplinas de Tecnologia da Informação em cursos como Análise e Desenvolvimento de Sistemas, Ciências da Computação, Administração, Engenharia Mecânica e Engenharia de Produção. Mergulhei de cabeça na Tecnologia e Dados, apaixonado por explorar e analisar informações para extrair insights valiosos. 🚀📈🔍
 
-Atualmente, estou imerso em um fascinante mundo de dados, buscando constantemente aprimorar minhas habilidades e conhecimentos em Ciência e Análise de Dados. Estou comprometido em contribuir para projetos inovadores e colaborar com a comunidade tech. 💡📊🔬
+Motivado pela busca incessante de insights valiosos, estou atualmente imerso no universo da Ciência e Análise de Dados, buscando incessantemente aprimorar minhas habilidades e conhecimentos. Comprometido com a inovação, busco contribuir para projetos e colaborar ativamente com a comunidade tecnológica. 🚀🔍
 
-Você pode me encontrar nos repositórios do GitHub, onde compartilho meus aprendizados, projetos e me envolvo ativamente em colaborações que impulsionam a tecnologia e a análise de dados para novos horizontes. 🤝💻📈
+Meu engajamento estende-se aos repositórios do GitHub, onde compartilho meus aprendizados, projetos e colaboro em iniciativas que impulsionam a tecnologia e a análise de dados em direção a novos patamares de excelência. 💡👥
 
 - 📫 Contate-me no email: prmoreira.dev@gmail.com
 
