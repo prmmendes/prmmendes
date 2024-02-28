@@ -61,6 +61,20 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/prmmendes/prmmendes/output/snake.svg" alt="Snake animation" />
+<h2 align="center">Estatísticas</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=prmmendes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=pt-br&hide_border=false&order=1&custom_title=Estat%C3%ADsticas%20gerais" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prmmendes&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2&custom_title=Linguagens" height="130" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=prmmendes&locale=pt-br&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="130" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=prmmendes.prmmendes&right_color=darkgrey&left_text=Visitantes"  />
+</div>
 
 ###
