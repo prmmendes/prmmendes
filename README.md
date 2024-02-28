@@ -1,10 +1,6 @@
 <h2 align="center">🧔Olá, sou Paulo Roberto. Seja muito bem vindo! 👋</h2>
 
-###
-
 <p align="left">Motivado pela busca incessante de insights valiosos, estou atualmente imerso no universo da Ciência e Análise de Dados, buscando incessantemente aprimorar minhas habilidades e conhecimentos. Comprometido com a inovação, busco contribuir para projetos e colaborar ativamente com a comunidade tecnológica. 🚀🔍<br><br>Meu engajamento estende-se aos repositórios do GitHub, onde compartilho meus aprendizados, projetos e colaboro em iniciativas que impulsionam a tecnologia e a análise de dados em direção a novos patamares de excelência. 💡👥</p>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/prmmendes/" target="_blank">
@@ -21,19 +17,19 @@
   </a>
 </div>
 
-###
+---
 
-<h2 align="center">Portfólio🔗💻</h2>
-
-###
+<h2 align="center">🔗Portfólio</h2>
 
 <p align="left">Por meio dos links fornecidos abaixo, tenha acesso aos meus trabalhos de portfólio.</p>
 
-###
+- #### [Atividades em Python](https://github.com/prmmendes/Python-Exercicios)
 
-<h2 align="center">Ferramentas e Linguagens</h2>
+Resolução dos exercícios da página Wiki Exercícios em Python
 
-###
+---
+
+<h2 align="center">🛠Ferramentas e Linguagens</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
@@ -59,11 +55,9 @@
   <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo"  />
 </div>
 
-###
+---
 
-<h2 align="center">Estatísticas</h2>
-
-###
+<h2 align="center">📊Estatísticas</h2>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=prmmendes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=pt-br&hide_border=false&order=1&custom_title=Estat%C3%ADsticas%20gerais" height="130" alt="stats graph"  />
@@ -71,10 +65,7 @@
   <img src="https://streak-stats.demolab.com?user=prmmendes&locale=pt-br&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="130" alt="streak graph"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=prmmendes.prmmendes&right_color=darkgrey&left_text=Visitantes"  />
 </div>
 
-###
