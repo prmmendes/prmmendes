@@ -23,10 +23,13 @@
 
 <p align="left">Por meio dos links fornecidos abaixo, tenha acesso aos meus trabalhos de portfólio.</p>
 
+<h3>Ciência e Análise de Dados</h3>
+
 - #### [Atividades em Python](https://github.com/prmmendes/Python-Exercicios)
 
 Resolução dos exercícios da página Wiki Exercícios em Python
 
+<h3>Desenvolvimento Web</h3>
 ---
 
 <h2 align="center">🛠Ferramentas e Linguagens</h2>
