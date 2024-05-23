@@ -29,8 +29,6 @@
 
 Resolução dos exercícios da página Wiki Exercícios em Python
 
-<h3> 💻 Desenvolvimento Web</h3>
----
 
 <h2 align="center">🛠Ferramentas e Linguagens</h2>
 
@@ -61,13 +59,7 @@ Resolução dos exercícios da página Wiki Exercícios em Python
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="40" alt="visualstudio logo"/>  
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="visualstudio logo"/>  
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" height="40" alt="visualstudio logo"/>  
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="visualstudio logo"/>  
-  <img width="12" />
-</div>
+ </div>
 
 ---
 
