@@ -25,10 +25,6 @@
 
 <h3> 📈 Ciência e Análise de Dados</h3>
 
-- #### [Atividades em Python](https://github.com/prmmendes/Python-Exercicios)
-
-Resolução dos exercícios da página Wiki Exercícios em Python
-
 - #### [Curso Numpy Alura](https://github.com/prmmendes/Numpy_curso).
 
 Análise de Dados realizada no Curso Numpy: Análise númerica eficiente com Python
