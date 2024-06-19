@@ -29,6 +29,9 @@
 
 Resolução dos exercícios da página Wiki Exercícios em Python
 
+- #### [Curso Numpy Alura](https://github.com/prmmendes/Numpy_curso).
+
+Análise de Dados realizada no Curso Numpy: Análise númerica eficiente com Python
 
 <h2 align="center">🛠Ferramentas e Linguagens</h2>
 
