@@ -25,9 +25,11 @@
 
 <h3> 📈 Ciência e Análise de Dados</h3>
 
-- #### [Curso Numpy Alura](https://github.com/prmmendes/Numpy_curso).
+- #### [Pandas: Imobiliaria](https://github.com/prmmendes/DS_Imobiliaria).
 
-Análise de Dados realizada no Curso Numpy: Análise númerica eficiente com Python
+Desenvolvido junto ao projeto do Curso de Pandas da Alura. 
+
+Descrição: A base de dados que vamos utilizar para desenvolver o projeto é uma base com dados de diferentes tipos de imóveis do Rio de Janeiro, como apartamento, casas, comércios, dentre outros. Nessa base, nós vamos encontrar os valores dos aluguéis de cada imóvel, condomínio, IPTU e também suas características, como: quantidade de quartos, suítes, vagas de garagem, etc.
 
 <h2 align="center">🛠Ferramentas e Linguagens</h2>
 
