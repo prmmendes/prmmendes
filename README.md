@@ -41,6 +41,7 @@ Insights sobre o mercado imobiliário: Entender as tendências e fatores que inf
 **Tecnologias Utilizadas**
 
 Pandas
+
 Google Colab
 
 **Resultados**
